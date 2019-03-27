@@ -13,7 +13,7 @@
     "morgan": "^1.7.0",
     "object-assign":"4.1.0",
     "newman": "^4.4.1",
-    "newman-reporter-html": "^4.4.1"
+    "newman-reporter-html": "^1.0.0"
   },
   "engine": {
     "node": "*",
